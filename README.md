@@ -36,6 +36,8 @@ New
 4) QR code not shows directly, for QR Code differnt page will appear when we click on "Tap to see QR code"
 
 
+Please ones check the figma prototyping link for better understanding..
+
 
 
 
