@@ -36,6 +36,9 @@ New
 4) QR code not shows directly, for QR Code differnt page will appear when we click on "Tap to see QR code"
 
 
+Flow 4 is not empty, after clicking on tap to see QR code there is a loding page 
+
+
 Please ones check the figma prototyping link for better understanding..
 
 
